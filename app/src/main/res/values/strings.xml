@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleLogin</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="login_title">LOGIN</string>
+    <string name="login_button">Login</string>
+    <string name="welcome_title_manage_products">Welcome to the system</string>
+</resources>
