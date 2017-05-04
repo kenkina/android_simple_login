@@ -67,8 +67,9 @@ public class MainActivity extends AppCompatActivity {
                         startActivity(
                                 new Intent(getApplicationContext(),
                                         ManageProductsActivity.class));
+                    } else {
+                        message = "Correo o contraseña incorrecta";
                     }
-                    message = "Correo o contraseña incorrecta";
                 }
 
                 messageTextView.setText(message);
